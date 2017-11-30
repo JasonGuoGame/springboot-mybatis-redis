@@ -1,0 +1,8 @@
+server:
+  contextPath: /redis
+  port: 8585
+
+logging:
+  level:
+    com.sas.modelmanager: INFO 
+ 
